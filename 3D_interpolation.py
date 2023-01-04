@@ -289,11 +289,3 @@ def calcul_kmoy(data,degree,C,k,visualisation):
         ax.scatter(XX, YY, ZZ, c='black', s=0.1,label='Scanned points')
         plt.show()
     return z_moy
-
-
-
-
-
-
-
-
